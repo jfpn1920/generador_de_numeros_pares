@@ -7,7 +7,7 @@ Este proyecto consiste en un **generador de números pares**, el cual muestra to
 
 El sistema utiliza un **bucle `for`** para recorrer la secuencia numérica y **condicionales** junto con **operadores matemáticos** para determinar si un número es divisible entre 2. Los resultados se muestran en pantalla de forma clara y ordenada.
 
-El objetivo principal del proyecto es reforzar el uso de **estructuras repetitivas**, **condicionales** y **operadores aritméticos**, además de mejorar la lógica para el manejo de rangos numéricos y la validación de condiciones en Python.
+El objetivo principal del proyecto es reforzar el uso de **estructuras repetitivas**, **condicionales** y **operadores aritméticos**, además de mejorar la lógica para el manejo de rangos numéricos y la validación de condiciones en Python. A través de este ejercicio, el usuario aprende a recorrer secuencias de datos.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
